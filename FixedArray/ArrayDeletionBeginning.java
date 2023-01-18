@@ -1,4 +1,5 @@
 public class ArrayDeletionBeginning {
+    
     public static void main(String[] args){
 
         //배열 생성하고 초기화
