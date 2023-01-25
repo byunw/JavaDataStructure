@@ -1,4 +1,5 @@
 public class LinkedListInsertionMiddle {
+    
     public static void main(String[] args){
 
         //2개 노드를 가진 링크리스트 생성
