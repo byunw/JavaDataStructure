@@ -1,4 +1,5 @@
 public class LinkedListDeletionMiddle {
+        
     public static void main(String[] args){
 
         //노드 3개 가진 링크링스트 생성
