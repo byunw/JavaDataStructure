@@ -22,7 +22,15 @@ class MyStack{
         }
         return arr[--top];
     }
-
+    
+    public int peek(){
+           if(top==0){
+              System.out.println("스택에 삽입된 값이 존재하지 않음");
+              System.exit(0);
+           }
+           return arr[top-1];
+    }
+    
     public Boolean empty(){
         if(top==0){
             return true;
